@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sns-publish": "^3.2.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "referrer-policy": "^1.1.0"
